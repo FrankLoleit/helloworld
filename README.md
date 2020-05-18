@@ -1,2 +1,2 @@
 # helloworld
-Big time programming art
+print("Hello World")
